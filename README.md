@@ -29,7 +29,7 @@ npm install -g newman-reporter-htmlextra
   Observe que você terá que substituir YourCollectionName e YourEnvironment pelo nome de seus arquivos exportados. Tenha em mente que -n 2 se refere ao número de iterações que você deseja. Por exemplo, você pode tentar -n 5 se quiser 5 iterações. Isso será mostrado em seu painel HTML. Assim que executarmos o comando, uma pasta chamada Newman será criada na origem da nossa pasta de coleções. Abra-o usando seu navegador favorito e você encontrará os resultados do teste em um arquivo HTML.
 
 
-💜 **Galera que fez acontecer:
+💜 **Galera que fez acontecer:**
 
 Um agradecimento para toda a squad que compõe a equipe Rocketman, em especial a:
 -> Ewerton Alexander, que me ajudou com os PreRequests.
